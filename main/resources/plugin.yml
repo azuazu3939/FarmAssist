@@ -1,0 +1,4 @@
+name: FarmAssist
+version: '${project.version}'
+main: azuazu3939.farmassist.FarmAssist
+api-version: 1.15
